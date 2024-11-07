@@ -1,5 +1,5 @@
 $(function() {
-    var tKillNames = ["Faded", "Uniqq", "Fentone", "Hug", "Ray", "Vez"];
+    var tKillNames = ["Faded", "Uniqq", "Fentone", "Hug", "Ray", "Vez", "Vice"];
     var ctKillNames = ["NN's"];
     var weapons = ["ssg", "deagle", /*,  "m4a4"*/ ];
     var $killFeedContainer = $('.kill-feed');
